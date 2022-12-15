@@ -1,6 +1,91 @@
 .resume{
     text-align: center;
+    margin-bottom: 50px;
 }
 .edhead{
-    margin-left: 8%;
+    text-align: center;
+}
+.mycircle{
+    size: 100px;
+}
+.lukepic{
+    height: 25%;
+    width: 25%;
+    margin-bottom: 45px;
+}
+.edmajor{
+    font-style: italic;
+    text-align: center;
+}
+.byu{
+    text-align: center;
+}
+.YSS{
+    font-weight: bolder;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+.header{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: right;
+    font-size: 20px;
+    margin-right: 3%;
+    margin-top: 2%;
+}
+.header2{
+    margin-left: 11%;
+    margin-bottom: 4%;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: 55px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.back{
+    background-color: grey;
+}
+.text{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+.List1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+li{
+    text-align: left;
+}
+ol{
+font-size: 24px;
+text-align: center;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-top: 6%;
+margin-left: 18%;
+}
+
+.mayte{
+    width: 70%;
+    height: 70%;
+}
+.yttext{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+}
+.tab{
+    width: 75%; 
+    height: 60%; 
+}
+
+.exe{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
 }
